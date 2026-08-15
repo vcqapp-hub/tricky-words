@@ -1,17 +1,13 @@
-TRICKY WORDS – FREE GITHUB PAGES WEBSITE
+TRICKY WORDS – FINAL GITHUB PAGES WEBSITE
 
-Upload the contents of this folder to the GitHub repository used for:
+Official GitHub Pages URL:
 https://vcqapp-hub.github.io/tricky-words/
 
-The website is already configured with:
-- responsive landing page
-- Tricky Words app icon
-- SEO metadata
-- Open Graph metadata
-- robots.txt
-- sitemap.xml
-- llms.txt
-- JSON-LD structured data
-- screenshots and promotional artwork
+This version uses the official Tricky Words app icon:
+- Browser favicon
+- Header icon beside TRICKY WORDS
+- App metadata / structured data
 
-The Google Play package ID/link is still a placeholder and should be replaced after the Play Store listing is published.
+Upload/replace the complete contents of this folder in the GitHub repository.
+
+The Google Play URL remains a placeholder until the Play Store listing is published.
