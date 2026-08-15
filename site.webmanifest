@@ -1,0 +1,12 @@
+{
+  "name":"Tricky Words",
+  "short_name":"Tricky Words",
+  "start_url":"/tricky-words/",
+  "display":"standalone",
+  "background_color":"#eef3ff",
+  "theme_color":"#4f6ff5",
+  "icons":[
+    {"src":"/tricky-words/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"/tricky-words/icon-512.png","sizes":"512x512","type":"image/png"}
+  ]
+}
