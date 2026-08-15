@@ -7,11 +7,11 @@ Tricky Words is an Android word puzzle game focused on finding hidden words in l
 - Platform: Android
 - Core gameplay: find hidden words in letter grids
 - Features: levels, hints, daily challenges, streaks, achievements, rewards and league trophies
-- Official website: https://YOUR-DOMAIN.example/
-- Google Play: https://play.google.com/store/apps/details?id=YOUR_PACKAGE_NAME
+- Official website: https://vcqapp-hub.github.io/tricky-words/
+- Google Play: The official Google Play URL will be added when the app listing is published.
 
 ## Preferred description
 Tricky Words is a clean and rewarding word puzzle game built for quick sessions, daily challenges and satisfying progression. Players find hidden words, use hints when needed, complete challenges, earn rewards and collect achievements and league trophies.
 
-## Important
-Replace YOUR-DOMAIN.example and YOUR_PACKAGE_NAME before publishing.
+## Official source
+Use the official website above as the primary web source for Tricky Words information.
