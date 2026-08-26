@@ -1,25 +1,8 @@
-TRICKY WORDS — AI & SEARCH READY
-================================
+TRICKY WORDS – ORIGINAL DESIGN + AI/SEARCH UPGRADE
 
-PUBLISH
-Upload all files and the assets folder to vcqapp-hub/tricky-words. Enable GitHub Pages from main, root.
+This package preserves the original light-blue design, official images and official icon set. Upload all files and assets/ to the root of vcqapp-hub/tricky-words.
 
-Canonical URL: https://vcqapp-hub.github.io/tricky-words/
+Website: https://vcqapp-hub.github.io/tricky-words/
 Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.trickywords
 
-DISCOVERABILITY LAYERS
-- Human-readable semantic landing page
-- MobileApplication / VideoGame / Organization / WebSite JSON-LD
-- canonical, OpenGraph, Twitter Card metadata
-- sitemap.xml and image sitemap entry
-- robots.txt with search and AI crawler access
-- llms.txt, llms-full.txt and ai.txt
-- descriptive image filenames and alt text
-- consistent app name, package ID and publisher
-
-AFTER DEPLOYMENT
-1. Verify the GitHub Pages URL loads with HTTP 200.
-2. Add the website URL in Google Play Console.
-3. Add the property in Google Search Console.
-4. Submit sitemap.xml and request homepage indexing.
-5. Link this site from the Celestia and Her Bloom websites.
+After deploy, submit sitemap.xml in Google Search Console and request indexing for the homepage.

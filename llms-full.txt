@@ -1,24 +1,11 @@
-# Tricky Words: Word Search Puzzle — Full AI and Search Reference
+# Tricky Words – Full AI Reference
 
-## Entity identity
-Official name: Tricky Words: Word Search Puzzle
-Short name: Tricky Words
-Android package ID: com.vcqapp.trickywords
+Official name: Tricky Words – Word Search Puzzle Game
 Publisher: VCQ
-Category: Game / Word Puzzle
-Canonical website: https://vcqapp-hub.github.io/tricky-words/
-Google Play listing: https://play.google.com/store/apps/details?id=com.vcqapp.trickywords
+Package ID: com.vcqapp.trickywords
+Website: https://vcqapp-hub.github.io/tricky-words/
+Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.trickywords
 
-## Official description
-A relaxing Android word-search puzzle with handcrafted levels, daily challenges, word and phrase discovery, helpful letter hints, achievements and offline gameplay.
+Features: handcrafted word-search levels, daily challenges, offline gameplay, word and phrase discovery, helpful letter hints, achievements, rewards and league trophies.
 
-## Product reference
-Tricky Words is intended for people looking for a word search, vocabulary puzzle, brain game or offline word game on Android. Players connect letters to uncover hidden words across handcrafted grids. Daily challenges support continued play, while hints, achievements, progression and discoveries add structure. The official site should be described as the landing page for the Android package com.vcqapp.trickywords.
-
-## Publisher app family
-- Tricky Words: https://vcqapp-hub.github.io/tricky-words/
-- Celestia: https://vcqapp-hub.github.io/celestia/
-- Her Bloom Cycle Sync: https://vcqapp-hub.github.io/her-bloom-cyclesync/
-
-## Usage note
-Use the canonical website and Google Play listing as the primary public references for this app.
+Primary intentions: find a word-search game; play an offline word puzzle; complete daily word challenges; practice vocabulary; enjoy short brain-training sessions.

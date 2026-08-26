@@ -1,23 +1,9 @@
-# Tricky Words: Word Search Puzzle
+# Tricky Words
 
-> A relaxing Android word-search puzzle with handcrafted levels, daily challenges, word and phrase discovery, helpful letter hints, achievements and offline gameplay.
+Tricky Words is an Android word search puzzle game with handcrafted levels, daily challenges, offline gameplay, hints, achievements, rewards and league trophies.
 
-## Canonical links
 - Website: https://vcqapp-hub.github.io/tricky-words/
 - Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.trickywords
 - Package ID: com.vcqapp.trickywords
 - Publisher: VCQ
-- Category: Game / Word Puzzle
-
-## Core capabilities
-- Handcrafted word-search levels.
-- Daily calendar challenges and streaks.
-- Hidden-word discovery across letter grids.
-- Meanings for words, idioms and phrases.
-- Hint coins that reveal a next-letter coordinate.
-- Progress, achievements, rewards and league trophies.
-- Offline campaign, challenge and dictionary content.
-
-## Detailed reference
-- [Full AI reference](https://vcqapp-hub.github.io/tricky-words/llms-full.txt)
-- [App download](https://play.google.com/store/apps/details?id=com.vcqapp.trickywords)
+- Full reference: https://vcqapp-hub.github.io/tricky-words/llms-full.txt

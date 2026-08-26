@@ -1,8 +1,6 @@
-App: Tricky Words: Word Search Puzzle
-Short name: Tricky Words
+App: Tricky Words – Word Search Puzzle Game
 Publisher: VCQ
-Package ID: com.vcqapp.trickywords
-Category: Game / Word Puzzle
-Canonical website: https://vcqapp-hub.github.io/tricky-words/
+Package: com.vcqapp.trickywords
+Website: https://vcqapp-hub.github.io/tricky-words/
 Google Play: https://play.google.com/store/apps/details?id=com.vcqapp.trickywords
-Primary topics: word search game, word puzzle, daily word challenge, offline word game, vocabulary game, hidden words, brain game, Android puzzle
+Topics: word search game, word puzzle, daily word challenge, offline word game, vocabulary puzzle, hints, achievements, league trophies.
