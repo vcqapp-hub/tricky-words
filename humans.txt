@@ -1,0 +1,7 @@
+/* TEAM */
+Publisher: VCQ
+
+/* SITE */
+Product: Tricky Words: Word Search Puzzle
+Canonical: https://vcqapp-hub.github.io/tricky-words/
+Language: English
